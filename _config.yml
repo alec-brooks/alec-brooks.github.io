@@ -20,3 +20,6 @@ paginate:            5
 
 # Custom vars
 version:             1.0.0
+
+github:
+  repo: https://github.com/alec-brooks/alec-brooks.github.io
