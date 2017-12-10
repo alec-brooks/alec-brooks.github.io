@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:               Perfunct
-# tagline:             'Tech'
+tagline:             'Tech'
 description:         'Just whatever'
 url:                 http://perfunct.tech
 baseurl:             ''
