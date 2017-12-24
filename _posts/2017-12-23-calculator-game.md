@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ruining fun with Haskell"
+title:  "Ruining Fun with Haskell"
 date:   2017-12-23 20:38:30 +1100
 categories: haskell
 ---
